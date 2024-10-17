@@ -1,0 +1,8 @@
+Users Post likh paayenge
+
+1) Users create karne hai
+2) Login and register
+3) Logout 
+4) Post Creation
+5) Post Like
+6) Post Delete
